@@ -2,6 +2,8 @@
 
 > A generator to shorter url, chrome plugin, use everywhere
 
+[plugin-chrome web store](https://chrome.google.com/webstore/detail/url-shortener/mjblbfdcghbjfmaonkklgocoojpokdck?hl=zh-CN)
+
 ![icon](https://github.com/ReAlign/url-shortener/blob/master/source/main.png)
 
 ![1](https://github.com/ReAlign/url-shortener/blob/master/source/1.png)
