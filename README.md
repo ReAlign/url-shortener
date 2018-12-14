@@ -4,12 +4,12 @@
 
 ![icon](https://github.com/ReAlign/url-shortener/blob/master/source/main.png)
 
-![1](https://github.com/ReAlign/url-shortener/blob/master/source/1.jpg)
+![1](https://github.com/ReAlign/url-shortener/blob/master/source/1.png)
 
-![2](https://github.com/ReAlign/url-shortener/blob/master/source/2.jpg)
+![2](https://github.com/ReAlign/url-shortener/blob/master/source/2.png)
 
-![3](https://github.com/ReAlign/url-shortener/blob/master/source/3.jpg)
+![3](https://github.com/ReAlign/url-shortener/blob/master/source/3.png)
 
-![4](https://github.com/ReAlign/url-shortener/blob/master/source/4.jpg)
+![4](https://github.com/ReAlign/url-shortener/blob/master/source/4.png)
 
-![5](https://github.com/ReAlign/url-shortener/blob/master/source/5.jpg)
+![5](https://github.com/ReAlign/url-shortener/blob/master/source/5.png)
