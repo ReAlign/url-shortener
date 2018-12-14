@@ -1,6 +1,6 @@
 # url-shortener
 
-> A generator to shorter url
+> A generator to shorter url, chrome plugin, use everywhere
 
 ![icon](https://github.com/ReAlign/url-shortener/blob/master/source/main.png)
 
