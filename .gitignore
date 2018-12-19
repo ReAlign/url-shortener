@@ -5,12 +5,3 @@
 .vscode/
 dist/
 node_modules/
-converter.zip
-package-lock.json
-
-build
-public
-src
-webpack.config.js
-gulpfile.js
-package.json
